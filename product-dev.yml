@@ -1,4 +1,4 @@
-env: product-dev6.yml
+env: product-dev7.yml
 
 spring:
   application:
